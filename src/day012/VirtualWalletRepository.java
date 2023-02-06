@@ -1,4 +1,4 @@
-package day12;
+package day012;
 
 import java.math.BigDecimal;
 
